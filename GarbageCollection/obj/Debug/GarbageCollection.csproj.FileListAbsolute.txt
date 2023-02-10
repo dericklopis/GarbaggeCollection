@@ -1,0 +1,8 @@
+C:\Users\91910\source\repos\GarbageCollection\GarbageCollection\bin\Debug\GarbageCollection.exe.config
+C:\Users\91910\source\repos\GarbageCollection\GarbageCollection\bin\Debug\GarbageCollection.exe
+C:\Users\91910\source\repos\GarbageCollection\GarbageCollection\bin\Debug\GarbageCollection.pdb
+C:\Users\91910\source\repos\GarbageCollection\GarbageCollection\obj\Debug\GarbageCollection.csproj.AssemblyReference.cache
+C:\Users\91910\source\repos\GarbageCollection\GarbageCollection\obj\Debug\GarbageCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\91910\source\repos\GarbageCollection\GarbageCollection\obj\Debug\GarbageCollection.csproj.CoreCompileInputs.cache
+C:\Users\91910\source\repos\GarbageCollection\GarbageCollection\obj\Debug\GarbageCollection.exe
+C:\Users\91910\source\repos\GarbageCollection\GarbageCollection\obj\Debug\GarbageCollection.pdb
